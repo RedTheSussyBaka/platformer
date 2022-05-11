@@ -1,2 +1,2 @@
-# platformer
-this is a platformer
+# Platformer
+This is a platformer
